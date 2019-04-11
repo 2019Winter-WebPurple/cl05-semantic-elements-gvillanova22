@@ -1,0 +1,17 @@
+/* Gia Villanova
+April 11, 2019 
+Small flower website */
+
+* {
+    
+    
+}
+
+header { background-color: navajowhite; }
+
+main { background-color: floralwhite; }
+
+footer { background-color: cadetblue; }
+
+#flowerpainting {width: 200px; height: 300px;}
+img { float: inherit }
